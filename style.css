@@ -145,9 +145,9 @@ body{
     height: 30px;
     border-radius: 30px;
     flex: 1;
-    margin-right: 5px;
+    margin-right: 20px;
     font-size: 18px;
-    
+    width: 95%;
 }
 
 .search button{
@@ -155,7 +155,7 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 100%;
-    width: 120px;
+    width: 30px;
     height: 25px;
     cursor: pointer;
     size: 20px;
